@@ -25,6 +25,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [bioRxiv  2022] **Language models of protein sequences at the scale of evolution enable accurate structure prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902.abstract)
 1. [bioRxiv  2022] **Atomic protein structure refinement using all-atom graph representations and SE(3)-equivariant graph neural networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.05.06.490934v2.abstract)
 1. [Bioinformatics 2022] **Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction** [[paper]](https://academic.oup.com/bioinformatics/article-abstract/38/Supplement_2/ii68/6702011)[[code]](https://github.com/Shen-Lab/CPAC)
+1. [bioRxiv 2022] **COLLAPSE: A representation learning framework for identification and characterization of protein structural sites**[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500713v2)
 
 
 
