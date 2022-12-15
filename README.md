@@ -68,7 +68,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [bioRxiv 2021] **Deciphering the language of antibodies using self-supervised learning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.11.10.468064v1)  
 1. [bioRxiv 2021] **Hydrogen bonds meet self-attention: all you need for general-purpose protein structure embedding** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.31.428935v2)   
 1. [bioRxiv 2021] **Improving Generalizability of Protein Sequence Models with Data Augmentations** [[paper]](https://www.biorxiv.org/content/10.1101/2021.02.18.431877v1)  
-2. [TCBB 2021] **Sequence representations and their utility for predicting protein-protein interactions** [[paper]](https://ieeexplore.ieee.org/document/9661301/)  
+
 
 
 ## Year 2020
