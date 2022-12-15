@@ -1,4 +1,4 @@
-# awesome-self-supervised-gnn
+# awesome-protein-representation-learning
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/LirongWu/awesome-protein-representation-learning?color=yellow)  ![Forks](https://img.shields.io/github/forks/LirongWu/awesome-protein-representation-learning?color=blue&label=Fork)
 
@@ -125,3 +125,4 @@ If you have any issue about this work, please feel free to contact me by email:
 
 - Lirong Wu: wulirong@westlake.edu.cn
 - Yufei Huang: huangyufei@westlake.edu.cn
+- Bozhen Hu: hubozhen@westlake.edu.cn
