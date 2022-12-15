@@ -64,7 +64,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [NeurIPS 2021] **Neural Distance Embeddings for Biological Sequences** [[paper]](https://proceedings.neurips.cc/paper/2021/hash/9a1de01f893e0d2551ecbb7ce4dc963e-Abstract.html)[[code]](https://github.com/gcorso/NeuroSEED)
 1. [Computational Biology and Chemistry 2021] **Convolutional neural networks with image representation of amino acid sequences for protein function prediction** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S147692712100061X)[[code]](https://github.com/swakkhar/ProtConv)
 1. [bioRxiv  2021] **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809.abstract)  
-1. [chemRxiv 2021] **Identification of Enzymatic Active Sites with Unsupervised Language Modeling** [[paper]](https://www.researchsquare.com/article/rs-1566483/v1)  
+1. [chemRxiv 2021] **Identification of Enzymatic Active Sites with Unsupervised Language Modeling** [[paper]](https://chemrxiv.org/engage/chemrxiv/article-details/61d7f0506be4200bbf24829e)  
 1. [bioRxiv 2021] **Deciphering the language of antibodies using self-supervised learning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.11.10.468064v1)  
 1. [bioRxiv 2021] **Hydrogen bonds meet self-attention: all you need for general-purpose protein structure embedding** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.31.428935v2)   
 1. [bioRxiv 2021] **Improving Generalizability of Protein Sequence Models with Data Augmentations** [[paper]](https://www.biorxiv.org/content/10.1101/2021.02.18.431877v1)  
