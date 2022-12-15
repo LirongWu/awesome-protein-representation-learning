@@ -63,7 +63,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [bioRxiv 2021] **Toward More General Embeddings for Protein Design: Harnessing Joint Representations of Sequence and Structure** [[paper]](https://www.biorxiv.org/content/10.1101/2021.09.01.458592.abstract)
 1. [NeurIPS 2021] **Neural Distance Embeddings for Biological Sequences** [[paper]](https://proceedings.neurips.cc/paper/2021/hash/9a1de01f893e0d2551ecbb7ce4dc963e-Abstract.html)[[code]](https://github.com/gcorso/NeuroSEED)
 1. [Computational Biology and Chemistry 2021] **Convolutional neural networks with image representation of amino acid sequences for protein function prediction** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S147692712100061X)[[code]](https://github.com/swakkhar/ProtConv)
-1. [bioRxiv  2021] **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809.abstract)
+1. [bioRxiv  2021] **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809.abstract)  
+1. [chemRxiv 2021] **Identification of Enzymatic Active Sites with Unsupervised Language Modeling** [[paper]](https://www.researchsquare.com/article/rs-1566483/v1)
 
 
 
