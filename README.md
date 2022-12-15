@@ -64,8 +64,11 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [NeurIPS 2021] **Neural Distance Embeddings for Biological Sequences** [[paper]](https://proceedings.neurips.cc/paper/2021/hash/9a1de01f893e0d2551ecbb7ce4dc963e-Abstract.html)[[code]](https://github.com/gcorso/NeuroSEED)
 1. [Computational Biology and Chemistry 2021] **Convolutional neural networks with image representation of amino acid sequences for protein function prediction** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S147692712100061X)[[code]](https://github.com/swakkhar/ProtConv)
 1. [bioRxiv  2021] **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809.abstract)  
-1. [chemRxiv 2021] **Identification of Enzymatic Active Sites with Unsupervised Language Modeling** [[paper]](https://www.researchsquare.com/article/rs-1566483/v1)
-
+1. [chemRxiv 2021] **Identification of Enzymatic Active Sites with Unsupervised Language Modeling** [[paper]](https://www.researchsquare.com/article/rs-1566483/v1)  
+1. [bioRxiv 2021] **Deciphering the language of antibodies using self-supervised learning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.11.10.468064v1)  
+1. [bioRxiv 2021] **Hydrogen bonds meet self-attention: all you need for general-purpose protein structure embedding** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.31.428935v2)   
+1. [bioRxiv 2021] **Improving Generalizability of Protein Sequence Models with Data Augmentations** [[paper]](https://www.biorxiv.org/content/10.1101/2021.02.18.431877v1)  
+2. [TCBB 2021] **Sequence representations and their utility for predicting protein-protein interactions** [[paper]](https://ieeexplore.ieee.org/document/9661301/)  
 
 
 ## Year 2020
@@ -102,12 +105,12 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [bioRxiv 2019] **Modeling the Language of Life – Deep Learning Protein Sequences** [[paper]](https://www.biorxiv.org/content/10.1101/614313v2)[[code]](https://github.com/Rostlab/SeqVec)
 1. [ICLR 2019] **Learning protein sequence embeddings using information from structure** [[paper]](https://arxiv.org/abs/1902.08661)[[code]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)
 1. [BIBM 2019] **GraphCPI: Graph Neural Representation Learning for Compound-Protein Interaction** [[paper]](https://ieeexplore.ieee.org/abstract/document/8983267/)
-1. [Bioinformatics 2018] **Learned protein embeddings for machine learning** [[paper]](https://academic.oup.com/bioinformatics/article/34/15/2642/4951834)[[code]](https://github.com/fhalab/embeddings_reproduction/)
-1. [Bioinformatics 2018] **Deep convolutional networks for quality assessment of protein folds** [[paper]](https://academic.oup.com/bioinformatics/article/34/23/4046/5040325)[[code]](https://github.com/lamoureux-lab/3DCNN_MQA)
-1. [bioRxiv 2018] **Deep Semantic Protein Representation for Annotation, Discovery, and Engineering** [[paper]](https://www.biorxiv.org/content/10.1101/365965.abstract)[[code]](https://github.com/syntheticgenomics/sgidspace)
-1. [bioRxiv 2017] **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks** [[paper]](https://www.biorxiv.org/node/37703.abstract)[[code]](https://github.com/carlomazzaferro/mhcPreds)
-1. [Arxiv 2017] **Variational auto-encoding of protein sequences** [[paper]](https://arxiv.org/abs/1712.03346)[[code]](https://github.com/samsinai/VAE_protein_function)
-1. [Arxiv 2016] **Distributed Representations for Biological Sequence Analysis** [[paper]](https://arxiv.org/abs/1608.05949)
+3. [Bioinformatics 2018] **Learned protein embeddings for machine learning** [[paper]](https://academic.oup.com/bioinformatics/article/34/15/2642/4951834)[[code]](https://github.com/fhalab/embeddings_reproduction/)
+4. [Bioinformatics 2018] **Deep convolutional networks for quality assessment of protein folds** [[paper]](https://academic.oup.com/bioinformatics/article/34/23/4046/5040325)[[code]](https://github.com/lamoureux-lab/3DCNN_MQA)
+5. [bioRxiv 2018] **Deep Semantic Protein Representation for Annotation, Discovery, and Engineering** [[paper]](https://www.biorxiv.org/content/10.1101/365965.abstract)[[code]](https://github.com/syntheticgenomics/sgidspace)
+6. [bioRxiv 2017] **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks** [[paper]](https://www.biorxiv.org/node/37703.abstract)[[code]](https://github.com/carlomazzaferro/mhcPreds)
+7. [Arxiv 2017] **Variational auto-encoding of protein sequences** [[paper]](https://arxiv.org/abs/1712.03346)[[code]](https://github.com/samsinai/VAE_protein_function)
+8. [Arxiv 2016] **Distributed Representations for Biological Sequence Analysis** [[paper]](https://arxiv.org/abs/1608.05949)
 
 
 
