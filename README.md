@@ -7,6 +7,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 
 ## Year 2022
+1. [bioRxiv 2022] **Codon language embeddings provide strong signals for protein engineering** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1)
 1. [Arxiv 2022] **When Geometric Deep Learning Meets Pretrained Protein Language Models** [[paper]](https://arxiv.org/abs/2212.03447)
 1. [Arxiv 2022] **Contrastive Representation Learning for 3D Protein Structures** [[paper]](https://arxiv.org/abs/2205.15675)
 1. [Arxiv 2022] **Protein Representation Learning by Geometric Structure Pretraining** [[paper]](https://arxiv.org/abs/2203.06125)
