@@ -28,8 +28,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [Bioinformatics 2022] **Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction** [[paper]](https://academic.oup.com/bioinformatics/article-abstract/38/Supplement_2/ii68/6702011)[[code]](https://github.com/Shen-Lab/CPAC)
 1. [bioRxiv 2022] **COLLAPSE: A representation learning framework for identification and characterization of protein structural sites** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500713v2)  
 1. [bioRxiv 2022] **An Analysis of Protein Language Model Embeddings for Fold Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.02.07.479394v1.full)  
-
-
+1. [ICLR 2022] **OntoProtein: Protein Pretraining With GEne Ontology Embedding** [[paper]](https://openreview.net/pdf?id=yfe1VMYAXa4) [[code]](https://github.com/zjunlp/OntoProtein)
+1. [Bioinformatics 2022] **DistilProtBert: a distilled protein language model used to distinguish between real proteins and their randomly shuffled counterparts** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii95/6701995)
+1. [Briefings in Bioinformatics 2022] **SPRoBERTa: protein embedding learning with local fragment modeling** [[paper]](https://academic.oup.com/bib/article-abstract/23/6/bbac401/6711410)
 
 ## Year 2021
 
