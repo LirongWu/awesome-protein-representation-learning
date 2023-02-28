@@ -4,7 +4,8 @@
 
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-
+## Year 2023
+1. [bioRxiv 2022] **Retrieved Sequence Augmentation for Protein Representation Learning** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v2)[[code]](https://github.com/HKUNLP/RSA) 
 
 ## Year 2022
 1. [bioRxiv 2022] **Codon language embeddings provide strong signals for protein engineering** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1)
