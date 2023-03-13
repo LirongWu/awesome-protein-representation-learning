@@ -118,6 +118,21 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 
 
+## Citation
+
+If you find this project useful for your research, please use the following BibTeX entry.
+
+```
+@article{wu2022survey,
+  title={A Survey on Protein Representation Learning: Retrospect and Prospect},
+  author={Wu, Lirong and Huang, Yufei and Lin, Haitao and Li, Stan Z},
+  journal={arXiv preprint arXiv:2301.00813},
+  year={2022}
+}
+```
+
+
+
 ## Contact
 
 If you have any issue about this work, please feel free to contact me by email:
