@@ -1,15 +1,18 @@
-# awesome-self-supervised-gnn
+# awesome-protein-representation-learning
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/LirongWu/awesome-protein-representation-learning?color=yellow)  ![Forks](https://img.shields.io/github/forks/LirongWu/awesome-protein-representation-learning?color=blue&label=Fork)
 
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-
+## Year 2023
+1. [bioRxiv 2023] **Retrieved Sequence Augmentation for Protein Representation Learning** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v2)[[code]](https://github.com/HKUNLP/RSA) 
+1. [ICLR 2023] **Protein Representation Learning by Geometric Structure Pretraining** [[paper]](https://arxiv.org/abs/2203.06125)
+2. [ICLR 2023] **Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins**[[paper]](https://openreview.net/forum?id=P5Z-Zl9XJ7)
 
 ## Year 2022
-
+1. [bioRxiv 2022] **Codon language embeddings provide strong signals for protein engineering** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1)
+1. [Arxiv 2022] **When Geometric Deep Learning Meets Pretrained Protein Language Models** [[paper]](https://arxiv.org/abs/2212.03447)
 1. [Arxiv 2022] **Contrastive Representation Learning for 3D Protein Structures** [[paper]](https://arxiv.org/abs/2205.15675)
-1. [Arxiv 2022] **Protein Representation Learning by Geometric Structure Pretraining** [[paper]](https://arxiv.org/abs/2203.06125)
 1. [Arxiv 2022] **Structure-aware Protein Self-supervised Learning** [[paper]](https://arxiv.org/abs/2204.04213)
 1. [KDD 2022] **GBPNet: Universal Geometric Representation Learning on Protein Structures** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539441)[[code]](https://github.com/sarpaykent/GBPNet)
 1. [Arxiv 2022] **Directed Weight Neural Networks for Protein Structure Representation Learning** [[paper]](https://arxiv.org/abs/2201.13299)
@@ -25,8 +28,11 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [bioRxiv  2022] **Language models of protein sequences at the scale of evolution enable accurate structure prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902.abstract)
 1. [bioRxiv  2022] **Atomic protein structure refinement using all-atom graph representations and SE(3)-equivariant graph neural networks** [[paper]](https://www.biorxiv.org/content/10.1101/2022.05.06.490934v2.abstract)
 1. [Bioinformatics 2022] **Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction** [[paper]](https://academic.oup.com/bioinformatics/article-abstract/38/Supplement_2/ii68/6702011)[[code]](https://github.com/Shen-Lab/CPAC)
-
-
+1. [bioRxiv 2022] **COLLAPSE: A representation learning framework for identification and characterization of protein structural sites** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500713v2)  
+1. [bioRxiv 2022] **An Analysis of Protein Language Model Embeddings for Fold Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2022.02.07.479394v1.full)  
+1. [ICLR 2022] **OntoProtein: Protein Pretraining With Gene Ontology Embedding** [[paper]](https://openreview.net/pdf?id=yfe1VMYAXa4) [[code]](https://github.com/zjunlp/OntoProtein)
+1. [Bioinformatics 2022] **DistilProtBert: a distilled protein language model used to distinguish between real proteins and their randomly shuffled counterparts** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii95/6701995)
+1. [Briefings in Bioinformatics 2022] **SPRoBERTa: protein embedding learning with local fragment modeling** [[paper]](https://academic.oup.com/bib/article-abstract/23/6/bbac401/6711410)
 
 ## Year 2021
 
@@ -62,7 +68,11 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [bioRxiv 2021] **Toward More General Embeddings for Protein Design: Harnessing Joint Representations of Sequence and Structure** [[paper]](https://www.biorxiv.org/content/10.1101/2021.09.01.458592.abstract)
 1. [NeurIPS 2021] **Neural Distance Embeddings for Biological Sequences** [[paper]](https://proceedings.neurips.cc/paper/2021/hash/9a1de01f893e0d2551ecbb7ce4dc963e-Abstract.html)[[code]](https://github.com/gcorso/NeuroSEED)
 1. [Computational Biology and Chemistry 2021] **Convolutional neural networks with image representation of amino acid sequences for protein function prediction** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S147692712100061X)[[code]](https://github.com/swakkhar/ProtConv)
-1. [bioRxiv  2021] **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809.abstract)
+1. [bioRxiv  2021] **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809.abstract)  
+1. [chemRxiv 2021] **Identification of Enzymatic Active Sites with Unsupervised Language Modeling** [[paper]](https://chemrxiv.org/engage/chemrxiv/article-details/61d7f0506be4200bbf24829e)  
+1. [bioRxiv 2021] **Deciphering the language of antibodies using self-supervised learning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.11.10.468064v1)  
+1. [bioRxiv 2021] **Hydrogen bonds meet self-attention: all you need for general-purpose protein structure embedding** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.31.428935v2)   
+1. [bioRxiv 2021] **Improving Generalizability of Protein Sequence Models with Data Augmentations** [[paper]](https://www.biorxiv.org/content/10.1101/2021.02.18.431877v1)  
 
 
 
@@ -95,17 +105,19 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [NeurIPS 2019] **Evaluating Protein Transfer Learning with TAPE** [[paper]](https://arxiv.org/abs/1906.08230)[[code]](https://github.com/songlab-cal/tape)
 1. [Nature communications 2019] **Deciphering protein evolution and fitness landscapes with latent space models** [[paper]](https://www.nature.com/articles/s41467-019-13633-0?ref=https://githubhelp.com)[[code]](https://github.com/xqding/PEVAE_Paper)
 1. [bioRxiv 2019] **DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences** [[paper]](https://www.biorxiv.org/content/10.1101/705426v1)[[code]](https://github.com/ehsanasgari/DeepPrime2Sec)
-1. [ACS Nano 2019] **A Self-Consistent Sonification Method to Translate Amino Acid Sequences into Musical Compositions and Application in Protein Design Using Artificial Intelligence** [[paper]](https://pubs.acs.org/doi/10.1021/acsnano.9b02180)
-1. [Nature Machine Intelligence 2019] **Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins.** [[paper]](https://www.nature.com/articles/s42256-019-0049-9)[[code]](https://github.com/juzb/DeeProtein)
-1. [bioRxiv 2019] **Modeling the Language of Life – Deep Learning Protein Sequences** [[paper]](https://www.biorxiv.org/content/10.1101/614313v2)[[code]](https://github.com/Rostlab/SeqVec)
-1. [ICLR 2019] **Learning protein sequence embeddings using information from structure** [[paper]](https://arxiv.org/abs/1902.08661)[[code]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)
-1. [BIBM 2019] **GraphCPI: Graph Neural Representation Learning for Compound-Protein Interaction** [[paper]](https://ieeexplore.ieee.org/abstract/document/8983267/)
-1. [Bioinformatics 2018] **Learned protein embeddings for machine learning** [[paper]](https://academic.oup.com/bioinformatics/article/34/15/2642/4951834)[[code]](https://github.com/fhalab/embeddings_reproduction/)
-1. [Bioinformatics 2018] **Deep convolutional networks for quality assessment of protein folds** [[paper]](https://academic.oup.com/bioinformatics/article/34/23/4046/5040325)[[code]](https://github.com/lamoureux-lab/3DCNN_MQA)
-1. [bioRxiv 2018] **Deep Semantic Protein Representation for Annotation, Discovery, and Engineering** [[paper]](https://www.biorxiv.org/content/10.1101/365965.abstract)[[code]](https://github.com/syntheticgenomics/sgidspace)
-1. [bioRxiv 2017] **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks** [[paper]](https://www.biorxiv.org/node/37703.abstract)[[code]](https://github.com/carlomazzaferro/mhcPreds)
-1. [Arxiv 2017] **Variational auto-encoding of protein sequences** [[paper]](https://arxiv.org/abs/1712.03346)[[code]](https://github.com/samsinai/VAE_protein_function)
-1. [Arxiv 2016] **Distributed Representations for Biological Sequence Analysis** [[paper]](https://arxiv.org/abs/1608.05949)
+1. [ACS Nano 2019] **A Self-Consistent Sonification Method to Translate Amino Acid Sequences into Musical Compositions and Application in Protein Design Using Artificial Intelligence** [[paper]](https://pubs.acs.org/doi/10.1021/acsnano.9b02180)  
+2. [bioRxiv 2019] **Augmenting protein network embeddings with sequence information** [[paper]](https://www.biorxiv.org/content/10.1101/730481v3)
+3. [Nature Machine Intelligence 2019] **Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins.** [[paper]](https://www.nature.com/articles/s42256-019-0049-9)[[code]](https://github.com/juzb/DeeProtein)
+4. [bioRxiv 2019] **Modeling the Language of Life – Deep Learning Protein Sequences** [[paper]](https://www.biorxiv.org/content/10.1101/614313v2)[[code]](https://github.com/Rostlab/SeqVec)
+5. [ICLR 2019] **Learning protein sequence embeddings using information from structure** [[paper]](https://arxiv.org/abs/1902.08661)[[code]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)
+6. [BIBM 2019] **GraphCPI: Graph Neural Representation Learning for Compound-Protein Interaction** [[paper]](https://ieeexplore.ieee.org/abstract/document/8983267/)
+7. [Bioinformatics 2018] **Learned protein embeddings for machine learning** [[paper]](https://academic.oup.com/bioinformatics/article/34/15/2642/4951834)[[code]](https://github.com/fhalab/embeddings_reproduction/)
+8. [Bioinformatics 2018] **Deep convolutional networks for quality assessment of protein folds** [[paper]](https://academic.oup.com/bioinformatics/article/34/23/4046/5040325)[[code]](https://github.com/lamoureux-lab/3DCNN_MQA)
+9. [bioRxiv 2018] **Deep Semantic Protein Representation for Annotation, Discovery, and Engineering** [[paper]](https://www.biorxiv.org/content/10.1101/365965.abstract)[[code]](https://github.com/syntheticgenomics/sgidspace)
+10. [bioRxiv 2017] **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks** [[paper]](https://www.biorxiv.org/node/37703.abstract)[[code]](https://github.com/carlomazzaferro/mhcPreds)
+11. [Arxiv 2017] **Variational auto-encoding of protein sequences** [[paper]](https://arxiv.org/abs/1712.03346)[[code]](https://github.com/samsinai/VAE_protein_function)
+12. [Arxiv 2016] **Distributed Representations for Biological Sequence Analysis** [[paper]](https://arxiv.org/abs/1608.05949)
+13. [Bioinformatics 2015] **ProFET: Feature engineering captures high-level protein functions** [[paper]](https://academic.oup.com/bioinformatics/article/31/21/3429/194375?login=false)  
 
 
 
@@ -115,6 +127,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 * [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
+* [awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design)
 
 
 
@@ -139,3 +152,4 @@ If you have any issue about this work, please feel free to contact me by email:
 
 - Lirong Wu: wulirong@westlake.edu.cn
 - Yufei Huang: huangyufei@westlake.edu.cn
+- Bozhen Hu: hubozhen@westlake.edu.cn
