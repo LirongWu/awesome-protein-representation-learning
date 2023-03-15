@@ -9,6 +9,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [ICLR 2023] **Protein Representation Learning by Geometric Structure Pretraining** [[paper]](https://arxiv.org/abs/2203.06125)
 2. [ICLR 2023] **Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins**[[paper]](https://openreview.net/forum?id=P5Z-Zl9XJ7)
 3. [ICLR 2023] **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning**[[paper]](https://openreview.net/forum?id=VbCMhg7MRmj)
+4. [ICLR 2023] **Multi-level Protein Structure Pre-training via Prompt Learning**[[paper]](https://openreview.net/forum?id=XGagtiJ8XC)
+5. [ICLR 2023] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**[[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ)
 
 ## Year 2022
 1. [bioRxiv 2022] **Codon language embeddings provide strong signals for protein engineering** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1)
