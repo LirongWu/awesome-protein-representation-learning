@@ -6,11 +6,25 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 ## Year 2023
 1. [bioRxiv 2023] **Retrieved Sequence Augmentation for Protein Representation Learning** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v2)[[code]](https://github.com/HKUNLP/RSA) 
+1. [Arxiv 2023] **Data-Efficient Protein 3D Geometric Pretraining via Refinement of Diffused Protein Structure Decoy** [[paper]](https://arxiv.org/pdf/2302.10888.pdf)
 1. [ICLR 2023] **Protein Representation Learning by Geometric Structure Pretraining** [[paper]](https://arxiv.org/abs/2203.06125)
 2. [ICLR 2023] **Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins**[[paper]](https://openreview.net/forum?id=P5Z-Zl9XJ7)
 3. [ICLR 2023] **Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning**[[paper]](https://openreview.net/forum?id=VbCMhg7MRmj)
 4. [ICLR 2023] **Multi-level Protein Structure Pre-training via Prompt Learning**[[paper]](https://openreview.net/forum?id=XGagtiJ8XC)
 5. [ICLR 2023] **Learning Hierarchical Protein Representations via Complete 3D Graph Networks**[[paper]](https://openreview.net/forum?id=9X-hgLDLYkQ)
+5. [ICLR 2023] **Rotamer Density Estimator is an Unsupervised Learner of the Effect of Mutations on Protein-Protein Interaction**[[paper]](https://openreview.net/forum?id=_X9Yl1K2mD)[[code]](https://github.com/luost26/RDE-PPI)
+5. [ICLR 2023] **Matching receptor to odorant with protein language and graph neural networks**[[paper]](https://openreview.net/forum?id=q9VherQJd8_)[[code]](https://github.com/MatejHl/Receptor2Odorant)
+5. [ICLR 2023] **Protein Sequence and Structure Co-Design with Equivariant Translation**[[paper]](https://openreview.net/forum?id=pRCMXcfdihq)[[code]](https://github.com/sokrypton/ColabDesign)
+5. [ICLR 2023] **HotProtein: A Novel Framework for Protein Thermostability Prediction and Editing**[[paper]](https://openreview.net/pdf?id=YDJRFWBMNby)[[code]](https://github.com/VITA-Group/HotProtein)
+5. [ICLR 2023] **PiFold: Toward effective and efficient protein inverse folding**[[paper]](https://openreview.net/forum?id=oMsN9TYwJ0j)[[code]](https://github.com/A4Bio/PiFold)
+5. [ICLR 2023] **Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins**[[paper]](https://openreview.net/forum?id=P5Z-Zl9XJ7)[[code]](https://github.com/hehefan/Continuous-Discrete-Convolution)
+5. [Nature 2023] **De novo design of protein interactions with learned surface fingerprints**[[paper]](https://www.nature.com/articles/s41586-023-05993-x)[[code]](https://github.com/LPDI-EPFL/masif_seed)
+5. [Nature Communications 2023] **PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces** [[paper]](https://www.nature.com/articles/s41467-023-37701-8)[[code]](https://github.com/LBM-EPFL/PeSTo)
+16. [IJCAI 2023] **SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction** [[paper]](https://arxiv.org/abs/2305.08316)
+17. [Science 2023] **Top-down design of protein architectures with reinforcement learning**[[paper]](https://www.science.org/doi/abs/10.1126/science.adf6591)[[code]](https://github.com/idlutz/protein-backbone-MCTS)
+18. [Nature Communications 2023] **Hierarchical graph learning for protein–protein interaction** [[paper]](https://www.nature.com/articles/s41467-023-36736-1)[[code]](https://github.com/zqgao22/HIGH-PPI)
+18. [Nature Biotechnol 2023] **Efficient evolution of human antibodies from general protein language models** [[paper]](https://www.nature.com/articles/s41587-023-01763-2)[[code]](https://github.com/brianhie/efficient-evolution)
+18. [Advanced Science 2023] **A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)[[code]](https://github.com/SIAT-code/MASSA)
 
 ## Year 2022
 1. [bioRxiv 2022] **Codon language embeddings provide strong signals for protein engineering** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1)
@@ -36,6 +50,15 @@ This repository contains a list of papers on the **Protein Representation Learni
 1. [ICLR 2022] **OntoProtein: Protein Pretraining With Gene Ontology Embedding** [[paper]](https://openreview.net/pdf?id=yfe1VMYAXa4) [[code]](https://github.com/zjunlp/OntoProtein)
 1. [Bioinformatics 2022] **DistilProtBert: a distilled protein language model used to distinguish between real proteins and their randomly shuffled counterparts** [[paper]](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii95/6701995)
 1. [Briefings in Bioinformatics 2022] **SPRoBERTa: protein embedding learning with local fragment modeling** [[paper]](https://academic.oup.com/bib/article-abstract/23/6/bbac401/6711410)
+1. [NeurIPS 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures**[[paper]](https://openreview.net/forum?id=jSorGn2Tjg)[[code]](https://github.com/luost26/diffab)
+1. [NeurIPS 2022] **PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://openreview.net/forum?id=QgTZ56-zJou)[[code]](https://github.com/DeepGraphLearning/PEER_Benchmark)
+1. [AAAI 2022] **Self-Supervised Pre-training for Protein Embeddings Using Tertiary Structures**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20636)[[code]](https://github.com/DeepGraphLearning/PEER_Benchmark)
+1. [ICLR 2022] **Geometric Transformers for Protein Interface Contact Prediction**[[paper]](https://openreview.net/forum?id=CS4463zx6Hi)[[code]](https://github.com/BioinfoMachineLearning/DeepInteract)
+1. [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**[[paper]](https://openreview.net/forum?id=GQjaI9mLet)[[code]](https://github.com/octavian-ganea/equidock_public)
+1. [ICML 2022] **Proximal Exploration for Model-guided Protein Sequence Design**[[paper]](https://proceedings.mlr.press/v162/ren22a.html)[[code]](https://github.com/HeliXonProtein/proximal-exploration)
+1. [ICML 2022] **Generating 3D Molecules for Target Protein Binding**[[paper]](https://proceedings.mlr.press/v162/liu22m.html)[[code]](https://github.com/divelab/GraphBP)
+1. [ICML 2022] **Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval**[[paper]](https://proceedings.mlr.press/v162/notin22a.html)[[code]](https://github.com/OATML-Markslab/Tranception)
+1. [Arxiv 2022] **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**[[paper]](https://arxiv.org/pdf/2211.11214.pdf)
 
 ## Year 2021
 
