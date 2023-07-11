@@ -25,6 +25,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 18. [Nature Communications 2023] **Hierarchical graph learning for protein–protein interaction** [[paper]](https://www.nature.com/articles/s41467-023-36736-1)[[code]](https://github.com/zqgao22/HIGH-PPI)
 18. [Nature Biotechnol 2023] **Efficient evolution of human antibodies from general protein language models** [[paper]](https://www.nature.com/articles/s41587-023-01763-2)[[code]](https://github.com/brianhie/efficient-evolution)
 18. [Advanced Science 2023] **A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)[[code]](https://github.com/SIAT-code/MASSA)
+19. [Nature Communications Biology] **Learning the protein language of proteome-wide protein-protein binding sites via explainable ensemble deep learning**[[paper]](https://doi.org/10.1038/s42003-023-04462-5)[[code]](https://github.com/houzl3416/EDLMPPI.git)
 
 ## Year 2022
 1. [bioRxiv 2022] **Codon language embeddings provide strong signals for protein engineering** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.519894v1)
