@@ -5,7 +5,7 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2023
-1. [ICML 2023] **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)[[code]](https://github. com/aqlaboratory/genie)
+1. [ICML 2023] **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**[[paper]](https://openreview.net/forum?id=4Kw5hKY8u8)[[code]](https://github.com/aqlaboratory/genie)
 1. [ICML 2023] **Chemically Transferable Generative Backmapping of Coarse-Grained Proteins**[[paper]](https://openreview.net/forum?id=7DnvWyVkUo)[[code]](https://github.com/learningmatter-mit/GenZProt)
 1. [ICML 2023] **Structure-informed Language Models Are Protein Designers**[[paper]](https://openreview.net/forum?id=1F2Opw8CGA)
 1. [ICML 2023] **ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts** [[paper]](https://arxiv.org/abs/2301.12040)[[code]](https://github.com/DeepGraphLearning/ProtST)
