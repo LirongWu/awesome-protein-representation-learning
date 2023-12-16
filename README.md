@@ -5,6 +5,7 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2023
+1. [ICML 2023] **Bidirectional Learning for Offline Model-based Biological Sequence Design**[[paper]](https://openreview.net/forum?id=CUORPu6abU)[[code]](https://github.com/GGchen1997/BIB-ICML2023-Submission)
 1. [ICML 2023] **Reprogramming Pretrained Language Models for Antibody Sequence Infilling**[[paper]](https://openreview.net/forum?id=K2gn1WiLAu)[[code]](https://github.com/IBM/ReprogBERT)
 1. [ICML 2023] **SE(3) diffusion model with application to protein backbone generation**[[paper]](https://openreview.net/forum?id=m8OUBymxwv)[[code]](https://github.com/jasonkyuyim/se3_diffusion)
 1. [ICML 2023] **Importance Weighted Expectation-Maximization for Protein Sequence Design**[[paper]](https://openreview.net/forum?id=7viOT7Zs9G)[[code]](https://github.com/JocelynSong/IsEM-Pro.git)
