@@ -5,6 +5,7 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2023
+1. [NIPS 2023] **DrugCLIP: Contrasive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://www.microsoft.com/en-us/research/publication/drugclip-contrasive-protein-molecule-representation-learning-for-virtual-screening/)
 1. [NIPS 2023] **Predicting mutational effects on protein-protein binding via a side-chain diffusion probabilistic model**[[paper]](https://synthical.com/article/8e405243-504c-40a5-907e-c9d1539bb0bc)
 1. [NIPS 2023] **PoET: A generative model of protein families as sequences-of-sequences**[[paper]](https://arxiv.org/abs/2306.06156)[[code]](https://github.com/OpenProteinAI/PoET)
 1. [NIPS 2023] **Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction**[[paper]](https://openreview.net/forum?id=tIzbNQko3c)
