@@ -5,6 +5,7 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2023
+1. [NIPS 2023] **ProteinGym: Large-Scale Benchmarks for Protein Design and Fitness Prediction**[[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.570727v1)[[code]](https://github.com/OATML-Markslab/ProteinGym)
 1. [NIPS 2023] **Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)[[code]](https://github.com/ykiiiiii/GraDe_IF)
 1. [NIPS 2023] **DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing**[[paper]](https://arxiv.org/abs/2306.01794)[[code]](https://github.com/DeepGraphLearning/DiffPack)
 1. [NIPS 2023] **DrugCLIP: Contrasive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://www.microsoft.com/en-us/research/publication/drugclip-contrasive-protein-molecule-representation-learning-for-virtual-screening/)
