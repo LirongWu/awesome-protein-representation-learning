@@ -4,7 +4,13 @@
 
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
+However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
+
 ## Year 2023
+1. [NIPS 2023] **Predicting a Protein's Stability under a Million Mutations**[[paper]](https://synthical.com/article/84686bb5-42bb-4e4a-bf19-a7b91c0ef76c)[[code]](https://github.com/jozhang97/MutateEverything)
+1. [NIPS 2023] **Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
+1. [NIPS 2023] **ProteinNPT: Improving protein property prediction and design with non-parametric transformers**[[paper]](https://www.biorxiv.org/content/10.1101/2023.12.06.570473v1)[[code]](https://github.com/oatml-markslab/proteinnpt)
+1. [NIPS 2023] **ProteinShake: Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://nips.cc/virtual/2023/poster/73711)[[code]](https://github.com/BorgwardtLab/proteinshake)
 1. [NIPS 2023] **Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)[[code]](https://github.com/chao1224/Geom3D)
 1. [NIPS 2023] **Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)[[code]](https://github.com/zaixizhang/FAIR?tab=readme-ov-file)
 1. [NIPS 2023] **Injecting Multimodal Information into Rigid Protein Docking via Bi-level Optimization**[[paper]](https://openreview.net/forum?id=ZuaVKlWdD2)
