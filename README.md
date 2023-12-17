@@ -5,6 +5,7 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2023
+1. [NIPS 2023] **CELLE-2: Translating Proteins to Pictures and Back with a Bidirectional Text-to-Image Transformer**[[paper]](https://paperswithcode.com/paper/celle-2-translating-proteins-to-pictures-and)[[code]](https://github.com/BoHuangLab/CELL-E_2)
 1. [NIPS 2023] **FABind: Fast and Accurate Protein-Ligand Binding**[[paper]](https://arxiv.org/abs/2310.06763)[[code]](https://github.com/qizhipei/fabind)
 1. [NIPS 2023] **ProteinGym: Large-Scale Benchmarks for Protein Design and Fitness Prediction**[[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.570727v1)[[code]](https://github.com/OATML-Markslab/ProteinGym)
 1. [NIPS 2023] **Graph Denoising Diffusion for Inverse Protein Folding**[[paper]](https://arxiv.org/abs/2306.16819)[[code]](https://github.com/ykiiiiii/GraDe_IF)
