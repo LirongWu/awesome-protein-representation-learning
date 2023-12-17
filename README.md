@@ -5,8 +5,10 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 ## Year 2023
+1. [NIPS 2023] **Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials**[[paper]](https://arxiv.org/abs/2306.09375)[[code]](https://github.com/chao1224/Geom3D)
+1. [NIPS 2023] **Full-Atom Protein Pocket Design via Iterative Refinement**[[paper]](https://arxiv.org/abs/2310.02553)[[code]](https://github.com/zaixizhang/FAIR?tab=readme-ov-file)
 1. [NIPS 2023] **Injecting Multimodal Information into Rigid Protein Docking via Bi-level Optimization**[[paper]](https://openreview.net/forum?id=ZuaVKlWdD2)
-1. [NIPS 203] **Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation**[[paper]](https://arxiv.org/abs/2301.10814)[[code]](github.com/wengong-jin/DSMBind)
+1. [NIPS 2023] **Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation**[[paper]](https://arxiv.org/abs/2301.10814)[[code]](github.com/wengong-jin/DSMBind)
 1. [NIPS 2023] **ProteinInvBench: Benchmarking Protein Inverse Folding on Diverse Tasks, Models, and Metrics**[[paper]](https://nips.cc/virtual/2023/poster/73537)[[code]](https://github.com/A4Bio/ProteinInvBench)
 1. [NIPS 2023] **OpenProteinSet: Training data for structural biology at scale**[[paper]](https://arxiv.org/abs/2308.05326)
 1. [NIPS 2023] **CELLE-2: Translating Proteins to Pictures and Back with a Bidirectional Text-to-Image Transformer**[[paper]](https://paperswithcode.com/paper/celle-2-translating-proteins-to-pictures-and)[[code]](https://github.com/BoHuangLab/CELL-E_2)
