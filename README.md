@@ -7,6 +7,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 
 ## Year 2023
+1. [NIPS 2023] **DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein**[[paper]](https://paperswithcode.com/paper/dsr-dynamical-surface-representation-as)[[code]](https://github.com/Sundw-818/DSR)
 1. [NIPS 2023] **Predicting a Protein's Stability under a Million Mutations**[[paper]](https://synthical.com/article/84686bb5-42bb-4e4a-bf19-a7b91c0ef76c)[[code]](https://github.com/jozhang97/MutateEverything)
 1. [NIPS 2023] **Protein Design with Guided Discrete Diffusion**[[paper]](https://arxiv.org/abs/2305.20009)
 1. [NIPS 2023] **ProteinNPT: Improving protein property prediction and design with non-parametric transformers**[[paper]](https://www.biorxiv.org/content/10.1101/2023.12.06.570473v1)[[code]](https://github.com/oatml-markslab/proteinnpt)
