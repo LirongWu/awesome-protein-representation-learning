@@ -5,6 +5,8 @@
 This repository contains a list of papers on the **Protein Representation Learning (PRL)**, we categorize them based on their published years. We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
+## Year 2024
+1. [AAAI 2024] **Improving PTM Site Prediction by Coupling of Multi-Granularity Structure and Multi-Scale Sequence Representation**[[paper]](https://arxiv.org/pdf/2401.10211.pdf)[[code]](https://github.com/LZY-HZAU/PTM-CMGMS)
 
 ## Year 2023
 1. [NIPS 2023] **DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein**[[paper]](https://paperswithcode.com/paper/dsr-dynamical-surface-representation-as)[[code]](https://github.com/Sundw-818/DSR)
