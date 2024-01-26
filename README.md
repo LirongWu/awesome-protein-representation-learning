@@ -7,12 +7,12 @@ This repository contains a list of papers on the **Protein Representation Learni
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
 1. [ICLR 2024] **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**[[paper]](https://openreview.net/forum?id=jJCeMiwHdH)
-1. [ICLR 2024] **Self-Guided Masked Autoencoders for Domain-Agnostic Self-Supervised Learning**[[paper]](https://openreview.net/forum?id=HiYMiZYwkw）
-1. [ICLR 2024] **Learning Scalar Fields for Molecular Docking with Fast Fourier Transforms**[[paper]](https://openreview.net/forum?id=BIveOmD1Nh）
-1. [ICLR 2024] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks**[[paper]](https://openreview.net/forum?id=uKB4cFNQFg）
-1. [ICLR 2024] **Searching for High-Value Molecules Using Reinforcement Learning and Transformers**[[paper]](https://openreview.net/forum?id=nqlymMx42E）
-1. [ICLR 2024] **Expected flow networks in stochastic environments and two-player zero-sum games**[[paper]](https://openreview.net/forum?id=uH0FGECSEI）
-1. [ICLR 2024] **Conversational Drug Editing Using Retrieval and Domain Feedback**[[paper]](https://openreview.net/forum?id=yRrPfKyJQ2）
+1. [ICLR 2024] **Self-Guided Masked Autoencoders for Domain-Agnostic Self-Supervised Learning**[[paper]](https://openreview.net/forum?id=HiYMiZYwkw)
+1. [ICLR 2024] **Learning Scalar Fields for Molecular Docking with Fast Fourier Transforms**[[paper]](https://openreview.net/forum?id=BIveOmD1Nh)
+1. [ICLR 2024] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks**[[paper]](https://openreview.net/forum?id=uKB4cFNQFg)
+1. [ICLR 2024] **Searching for High-Value Molecules Using Reinforcement Learning and Transformers**[[paper]](https://openreview.net/forum?id=nqlymMx42E)
+1. [ICLR 2024] **Expected flow networks in stochastic environments and two-player zero-sum games**[[paper]](https://openreview.net/forum?id=uH0FGECSEI)
+1. [ICLR 2024] **Conversational Drug Editing Using Retrieval and Domain Feedback**[[paper]](https://openreview.net/forum?id=yRrPfKyJQ2)
 1. [ICLR 2024] **The Discovery of Binding Modes Requires Rethinking Docking Generalization**[[paper]](https://openreview.net/forum?id=UfBIxpTK10)
 1. [ICLR 2024] **Hierarchical Data-efficient Representation Learning for Tertiary Structure-based RNA Design**[[paper]](https://openreview.net/forum?id=RemfXx7ebP)
 1. [ICLR 2024] **Generative Adversarial Policy Network for Modelling Protein Complexes**[[paper]](https://openreview.net/forum?id=4MsfQ2H0lP)
