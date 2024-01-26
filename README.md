@@ -6,8 +6,35 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
-1. [ICLR 2024] **SaProt: Protein Language Modeling with Structure-aware Vocabulary**[[paper]](https://openreview.net/forum?id=6MRm3G4NiU)[[code]](https://github.com/SaProt/SaProt)
-1. [ICLR 2024] **Protein Discovery with Discrete Walk-Jump Sampling**[[paper]](https://openreview.net/forum?id=zMPHKOmQNb)
+1. [ICLR 2024] **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**[[paper]](https://openreview.net/forum?id=jJCeMiwHdH)
+1. [ICLR 2024] **Self-Guided Masked Autoencoders for Domain-Agnostic Self-Supervised Learning**[[paper]](https://openreview.net/forum?id=HiYMiZYwkw）
+1. [ICLR 2024] **Learning Scalar Fields for Molecular Docking with Fast Fourier Transforms**[[paper]](https://openreview.net/forum?id=BIveOmD1Nh）
+1. [ICLR 2024] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks**[[paper]](https://openreview.net/forum?id=uKB4cFNQFg）
+1. [ICLR 2024] **Searching for High-Value Molecules Using Reinforcement Learning and Transformers**[[paper]](https://openreview.net/forum?id=nqlymMx42E）
+1. [ICLR 2024] **Expected flow networks in stochastic environments and two-player zero-sum games**[[paper]](https://openreview.net/forum?id=uH0FGECSEI）
+1. [ICLR 2024] **Conversational Drug Editing Using Retrieval and Domain Feedback**[[paper]](https://openreview.net/forum?id=yRrPfKyJQ2）
+1. [ICLR 2024] **The Discovery of Binding Modes Requires Rethinking Docking Generalization**[[paper]](https://openreview.net/forum?id=UfBIxpTK10)
+1. [ICLR 2024] **Hierarchical Data-efficient Representation Learning for Tertiary Structure-based RNA Design**[[paper]](https://openreview.net/forum?id=RemfXx7ebP)
+1. [ICLR 2024] **Generative Adversarial Policy Network for Modelling Protein Complexes**[[paper]](https://openreview.net/forum?id=4MsfQ2H0lP)
+1. [ICLR 2024] **Protein Multimer Structure Prediction via PPI-guided Prompt Learning**[[paper]](https://openreview.net/forum?id=OHpvivXrQr)
+1. [ICLR 2024] **Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment**[[paper]](https://openreview.net/forum?id=uMAujpVi9m)
+1. [ICLR 2024] **Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models**[[paper]](https://openreview.net/forum?id=qH9nrMNTIW)
+1. [ICLR 2024] **Str2Str: A Score-based Framework for Zero-shot Protein Conformation Sampling**[[paper]](https://openreview.net/forum?id=C4BikKsgmK)
+1. [ICLR 2024] **Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model**[[paper]](https://openreview.net/forum?id=qg2boc2AwU)
+1. [ICLR 2024] **Robust Model-Based Optimization for Challenging Fitness Landscapes**[[paper]](https://openreview.net/forum?id=xhEN0kJh4q)
+1. [ICLR 2024] **Protein-ligand binding representation learning from fine-grained interactions**[[paper]](https://openreview.net/forum?id=AXbN2qMNiW)
+1. [ICLR 2024] **Learning to design protein-protein interactions with enhanced generalization**[[paper]](https://openreview.net/forum?id=xcMmebCT7s)
+1. [ICLR 2024] **KW-Design: Pushing the Limit of Protein Design via Knowledge Refinement**[[paper]](https://openreview.net/forum?id=mpqMVWgqjn)
+1. [ICLR 2024] **Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction**[[paper]](https://openreview.net/forum?id=zgQ0PHeGnL)
+1. [ICLR 2024] **Evaluating Representation Learning on the Protein Structure Universe**[[paper]](https://openreview.net/forum?id=sTYuRVrdK3)
+1. [ICLR 2024] **Improving protein optimization with smoothed fitness landscapes**[[paper]](https://openreview.net/forum?id=rxlF2Zv8x0)
+1. [ICLR 2024] **Dynamics-Informed Protein Design with Structure Conditioning**[[paper]](https://openreview.net/forum?id=jZPqf2G9Sw)
+1. [ICLR 2024] **Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning**[[paper]](https://openreview.net/forum?id=BEH4mGo7zP)
+1. [ICLR 2024 spotlight] **SE(3)-Stochastic Flow Matching for Protein Backbone Generation**[[paper]](https://openreview.net/forum?id=kJFIH23hXb)
+1. [ICLR 2024 spotlight] **De novo Protein Design Using Geometric Vector Field Networks**[[paper]](https://openreview.net/forum?id=9UIGyJJpay)
+1. [ICLR 2024 spotlight] **MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding**[[paper]](https://openreview.net/forum?id=itGkF993gz)
+1. [ICLR 2024 spotlight] **SaProt: Protein Language Modeling with Structure-aware Vocabulary**[[paper]](https://openreview.net/forum?id=6MRm3G4NiU)[[code]](https://github.com/SaProt/SaProt)
+1. [ICLR 2024 oral] **Protein Discovery with Discrete Walk-Jump Sampling**[[paper]](https://openreview.net/forum?id=zMPHKOmQNb)
 1. [AAAI 2024] **Improving PTM Site Prediction by Coupling of Multi-Granularity Structure and Multi-Scale Sequence Representation**[[paper]](https://arxiv.org/pdf/2401.10211.pdf)[[code]](https://github.com/LZY-HZAU/PTM-CMGMS)
 
 ## Year 2023
