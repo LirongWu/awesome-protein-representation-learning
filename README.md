@@ -6,6 +6,8 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
+1. [ICLR 2024] **SaProt: Protein Language Modeling with Structure-aware Vocabulary**[[paper]](https://openreview.net/forum?id=6MRm3G4NiU)[[code]](https://github.com/SaProt/SaProt)
+1. [ICLR 2024] **Protein Discovery with Discrete Walk-Jump Sampling**[[paper]](https://openreview.net/forum?id=zMPHKOmQNb)
 1. [AAAI 2024] **Improving PTM Site Prediction by Coupling of Multi-Granularity Structure and Multi-Scale Sequence Representation**[[paper]](https://arxiv.org/pdf/2401.10211.pdf)[[code]](https://github.com/LZY-HZAU/PTM-CMGMS)
 
 ## Year 2023
