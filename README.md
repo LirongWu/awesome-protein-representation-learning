@@ -6,6 +6,21 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
+1. [ICML 2024] **Knowledge-aware Reinforced Language Models for Protein Directed Evolution**[[paper]](https://openreview.net/forum?id=MikandLqtW)[[code]](https://github.com/HICAI-ZJU/KnowRLM)
+2. [ICML 2024] **Evolution-Inspired Loss Functions for Protein Representation Learning**[[paper]](https://openreview.net/forum?id=y5L8W0KRUX)
+3. [ICML 2024] **Diffusion Language Models Are Versatile Protein Learners**[[paper]](https://openreview.net/forum?id=NUAbSFqyqb)
+4. [ICML 2024] **ESM All-Atom: Multi-Scale Protein Language Model for Unified Molecular Modeling**[[paper]](https://openreview.net/forum?id=283cGgWfM2)
+5. [ICML 2024] **Protein Conformation Generation via Force-Guided SE(3) Diffusion Models**[[paper]](https://openreview.net/forum?id=aC1LSa4nXs)
+6. [ICML 2024] **Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models**[[paper]](https://openreview.net/forum?id=wdTiuvd0fR)
+7. [ICML 2024] **AlphaFold Meets Flow Matching for Generating Protein Ensembles**[[paper]](https://openreview.net/forum?id=rs8Sh2UASt)
+8. [ICML 2024] **Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**[[paper]](https://openreview.net/forum?id=8NfHmzo0Op)
+9. [ICML 2024] **Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**[[paper]](https://openreview.net/forum?id=0zbxwvJqwf)
+10. [ICML 2024] **SurfPro: Functional Protein Design Based on Continuous Surface**[[paper]](https://openreview.net/forum?id=a8QpoEJCRI)
+11. [ICML 2024] **CarbonNovo: Joint Design of Protein Structure and Sequence Using a Unified Energy-based Model**[[paper]](https://openreview.net/forum?id=FSxTEvuFa7)
+12. [ICML 2024] **Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**[[paper]](https://openreview.net/forum?id=kQwSbv0BR4)
+13. [ICML 2024] **Proteus: Exploring Protein Structure Generation for Enhanced Designability and Efficiency**[[paper]](https://openreview.net/forum?id=IckJCzsGVS)
+14. [ICML 2024] **Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning**[[paper]](https://openreview.net/forum?id=g89jAdrnAF)
+15. [ICML 2024] **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation**[[paper]](https://openreview.net/forum?id=eejhD9FCP3)
 1. [ICML 2024] **Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains**[[paper]](https://openreview.net/forum?id=qY63FnLuJ1)
 1. [Arxiv 2024] **HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multi-task Learning**[[paper]](https://arxiv.org/pdf/2404.01693.pdf)
 1. [Arxiv 2024] **Clustering for Protein Representation Learning**[[paper]](https://arxiv.org/pdf/2404.00254.pdf)
