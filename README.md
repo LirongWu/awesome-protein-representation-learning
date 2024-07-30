@@ -6,6 +6,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
+1. [ICML 2024] **CLIPZyme: Reaction-Conditioned Virtual Screening of Enzymes**[[paper]](https://openreview.net/forum?id=0mYAK6Yhhm)
+2. [ICML 2024] **Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates**(https://openreview.net/forum?id=ATvN9JnqZ8)[[code]](https://github.com/LeiLiLab/EnzyGen)
+3. [ACMMM 2024] **MetaEnzyme: Meta Pan-Enzyme Learning for Task-Adaptive Redesign**[[paper]](https://openreview.net/forum?id=llsOp6DhLm)
 1. [ICML 2024] **Knowledge-aware Reinforced Language Models for Protein Directed Evolution**[[paper]](https://openreview.net/forum?id=MikandLqtW)[[code]](https://github.com/HICAI-ZJU/KnowRLM)
 2. [ICML 2024] **Evolution-Inspired Loss Functions for Protein Representation Learning**[[paper]](https://openreview.net/forum?id=y5L8W0KRUX)
 3. [ICML 2024] **Diffusion Language Models Are Versatile Protein Learners**[[paper]](https://openreview.net/forum?id=NUAbSFqyqb)
