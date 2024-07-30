@@ -6,6 +6,7 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
+1. [ICML 2024] **Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains**[[paper]](https://openreview.net/forum?id=qY63FnLuJ1)
 1. [Arxiv 2024] **HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multi-task Learning**[[paper]](https://arxiv.org/pdf/2404.01693.pdf)
 1. [Arxiv 2024] **Clustering for Protein Representation Learning**[[paper]](https://arxiv.org/pdf/2404.00254.pdf)
 1. [ICLR 2024] **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**[[paper]](https://openreview.net/forum?id=jJCeMiwHdH)
