@@ -6,6 +6,9 @@ This repository contains a list of papers on the **Protein Representation Learni
 
 However, Since 2023, the number of simple PRL methods has dwindled, and researchers have begun to focus on more divergent and difficult domain problems.
 ## Year 2024
+1. [NIPS 2024] **DePLM: Denoising Protein Language Models for Property Optimization**[[paper]](https://openreview.net/forum?id=MU27zjHBcW&referrer=%5Bthe%20profile%20of%20Yu%20Zhao%5D(%2Fprofile%3Fid%3D~Yu_Zhao8))
+1. [NIPS 2024] **Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction**[[paper]](https://nips.cc/virtual/2024/poster/95854)
+1. [NIPS 2024] **Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure** [[paper]](https://nips.cc/virtual/2024/poster/96915)
 1. [ICML 2024] **CLIPZyme: Reaction-Conditioned Virtual Screening of Enzymes**[[paper]](https://openreview.net/forum?id=0mYAK6Yhhm)
 2. [ICML 2024] **Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates**[[paper]](https://openreview.net/forum?id=ATvN9JnqZ8)[[code]](https://github.com/LeiLiLab/EnzyGen)
 3. [ACMMM 2024] **MetaEnzyme: Meta Pan-Enzyme Learning for Task-Adaptive Redesign**[[paper]](https://openreview.net/forum?id=llsOp6DhLm)
