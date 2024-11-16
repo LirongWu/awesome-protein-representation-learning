@@ -24,7 +24,7 @@ However, Since 2023, the number of simple PRL methods has dwindled, and research
 1. [NIPS 2024] **Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework**[[paper]](https://openreview.net/forum?id=LgeHswiWef&referrer=%5Bthe%20profile%20of%20qiang%20liu%5D(%2Fprofile%3Fid%3D~qiang_liu4))
 1. [NIPS 2024] **Multi-Scale Representation Learning for Protein Fitness Prediction**[[paper]](https://openreview.net/forum?id=-xEk43f_EO6)
 1. [NIPS 2024] **Generating Highly Designable Proteins with Geometric Algebra Flow Matching**[[paper]](https://openreview.net/forum?id=nAnEStxyfy&referrer=%5Bthe%20profile%20of%20Jan%20St%C3%BChmer%5D(%2Fprofile%3Fid%3D~Jan_St%C3%BChmer2))
-1. [NIPS 2024] **MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins**(https://openreview.net/forum?id=XHdwlbNSVb&referrer=%5Bthe%20profile%20of%20Yong%20Luo%5D(%2Fprofile%3Fid%3D~Yong_Luo2))[[code]](https://github.com/Gift-OYS/MMSite)
+1. [NIPS 2024] **MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins**[[paper]](https://openreview.net/forum?id=XHdwlbNSVb&referrer=%5Bthe%20profile%20of%20Yong%20Luo%5D(%2Fprofile%3Fid%3D~Yong_Luo2))[[code]](https://github.com/Gift-OYS/MMSite)
 1. [NIPS 2024] **Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Generation**[[paper]](https://arxiv.org/abs/2405.20313)
 1. [NIPS 2024] **Kermut: Composite kernel regression for protein variant effects**[[paper]](https://arxiv.org/html/2407.00002v2)
 1. [NIPS 2024] **Bridge-IF: Learning Inverse Protein Folding with Markov Bridges**[[paper]](https://arxiv.org/abs/2411.02120#:~:text=Inverse%20protein%20folding%20is%20a,into%20the%20desired%20backbone%20structures.)[[code]](https://github.com/violet-sto/Bridge-IF)
